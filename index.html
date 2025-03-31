@@ -9,6 +9,15 @@
 <body>
     <div class="container">
         <h1>NWS Radar Imagery Loop</h1>
+        <div class="controls">
+            <label for="radarSite">Select Radar Site:</label>
+            <select id="radarSite">
+                <option value="CONUS">CONUS</option>
+                <option value="NCR">NCR</option>
+                <option value="SFR">SFR</option>
+                <!-- Add more radar sites as needed -->
+            </select>
+        </div>
         <div class="radar-loop">
             <img id="radarImage" src="" alt="Radar Imagery">
         </div>
