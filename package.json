@@ -1,0 +1,27 @@
+{
+  "name": "nws-radar-imagery-loop",
+  "version": "1.0.0",
+  "description": "A project for NWS radar imagery looping",
+  "main": "index.js",
+  "scripts": {
+    "build": "your-build-command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/G34hWeatherSpotter/nws-radar-imagery-loop.git"
+  },
+  "keywords": [
+    "nws",
+    "radar",
+    "imagery",
+    "loop"
+  ],
+  "author": "G34hWeatherSpotter",
+  "license": "MIT",
+  "dependencies": {
+    // add your project dependencies here
+  },
+  "devDependencies": {
+    // add your development dependencies here
+  }
+}
